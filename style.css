@@ -1,0 +1,146 @@
+/* Global styles */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Header styles */
+
+header {
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    color: #333;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ff6600;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.welcome h1 {
+    color: #333;
+    font-size: 48px;
+    margin: 0;
+}
+
+.welcome h3 {
+    color: #666;
+    font-size: 24px;
+    margin: 0;
+    margin-top: 20px;
+}
+
+
+/* Questions styles */
+
+.questions {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.question {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+
+.question h4 {
+    color: #333;
+    font-size: 24px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.prompt {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.answer {
+    background-color: #fff;
+    border: 1px solid #333;
+    border-radius: 3px;
+    color: #333;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 10px;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+}
+
+.answer:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+
+/* Social media icons styles */
+
+.social {
+    background-color: #250b6d;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    padding: 20px;
+}
+
+.social span {
+    margin-right: 20px;
+}
+
+.social i {
+    cursor: pointer;
+    margin-right: 10px;
+    transition: all 0.3s ease;
+}
+
+.social i:hover {
+    transform: scale(1.2);
+}

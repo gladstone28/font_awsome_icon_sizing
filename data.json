@@ -1,0 +1,79 @@
+{
+    "questions": [
+        {
+            "id": "question1",
+            "prompt": "I like participating in physical activity such as running, swimming, or biking.",
+            "answers": [
+                {
+                    "value": "disagree"
+                },
+                {
+                    "value": "neutral"
+                },
+                {
+                    "value": "agree"
+                }
+            ]
+        },
+        {
+            "id": "question2",
+            "prompt": "I try to keep up to date with the latest fashion in active wear.",
+            "answers": [
+                {
+                    "value": "disagree"
+                },
+                {
+                    "value": "neutral"
+                },
+                {
+                    "value": "agree"
+                }
+            ]
+        },
+        {
+            "id": "question3",
+            "prompt": "I purchase clothing online regularly.",
+            "answers": [
+                {
+                    "value": "disagree"
+                },
+                {
+                    "value": "neutral"
+                },
+                {
+                    "value": "agree"
+                }
+            ]
+        },
+        {
+            "id": "question4",
+            "prompt": "I try to buy goods that are designed and/or manufactured in my home country.",
+            "answers": [
+                {
+                    "value": "disagree"
+                },
+                {
+                    "value": "neutral"
+                },
+                {
+                    "value": "agree"
+                }
+            ]
+        },
+        {
+            "id": "question5",
+            "prompt": "I look to famous athletes when trying to choose what to wear when training.",
+            "answers": [
+                {
+                    "value": "disagree"
+                },
+                {
+                    "value": "neutral"
+                },
+                {
+                    "value": "agree"
+                }
+            ]
+        }
+    ]
+}
