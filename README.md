@@ -87,3 +87,12 @@ There are several tools we can use to modify assets. Adobe Photoshop is a common
 3. Paste this image URL into the box that appears. Be sure that you don’t have http twice at the beginning of the URL.
 
 
+
+
+
+###### NG: memory jog
+/c/Users/glads/Downloads/FONT_AWESOME_ICON_SIZING
+
+
+
+
